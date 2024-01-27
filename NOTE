@@ -4,12 +4,11 @@
 ||              \
 ||                  \
 ||                      \
-||                            \                                  
-||                                \
-||
-||                                   \          
-[*]THIS IS formbranch2 FROM THE MAIN BRANCH[*] ||    
-||                                  / ------------
+||                          \                                  
+||                              \                             
+||                                  \  ------------>           
+[*]THIS IS formbranch2 FROM THE MAIN BRANCH[*]       ------->>>>>>>>   
+||                                   / ------------>
 ||                              /   
 ||                          /
 ||                      /
